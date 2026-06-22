@@ -1,0 +1,9 @@
+5 5
+70
+3 3
+0 4
+E K E M X
+E M M E H
+E E E E E
+T T T T E
+E E E E E
