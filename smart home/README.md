@@ -39,15 +39,3 @@ The system manages the state and usage metrics of the following smart devices:
 - **`OutputWriter.java`**: Formats and writes the simulation reports into the output text files.
 
 ---
-
-## 🚀 How to Run
-
-Compile and run the program using standard Java commands. The application takes an input command file and writes the execution report to the output file:
-
-```bash
-# Compile the project
-javac SmartHomeSystem.java
-
-# Run the project with command arguments
-java SmartHomeSystem inputs/input1.txt output.txt
-```

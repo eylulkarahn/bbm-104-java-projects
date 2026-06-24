@@ -43,15 +43,3 @@ The game is set on a grid map with platforms (terrains and blocks) where the pla
 - **`level.txt`**: Configuration file containing the initial placement and coordinates of the platforms.
 
 ---
-
-## 🚀 How to Run
-
-Compile and launch the game using Java 8:
-
-```bash
-# Compile all source files
-javac GameEngine.java
-
-# Run the game
-java GameEngine
-```

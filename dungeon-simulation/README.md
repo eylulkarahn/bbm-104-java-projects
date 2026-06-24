@@ -44,15 +44,3 @@ The dungeon is represented as a grid where each cell corresponds to a specific r
 - **`ReadInput.java`** / **`WriteOutput.java`**: Handles reading the input grid and writing the path results to an output file.
 
 ---
-
-## 🚀 How to Run
-
-Compile and run the program using standard Java commands. The program accepts the input grid path and the desired output path as command-line arguments:
-
-```bash
-# Compile the project
-javac Main.java
-
-# Run the project with inputs and outputs
-java Main inputs/input6.txt output.txt
-```
